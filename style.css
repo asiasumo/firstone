@@ -1,0 +1,130 @@
+body
+{
+	background-color:#5e6672;
+	color: #ffffff;
+	font-family: 'Nixie One', cursive;
+}
+
+
+#container{
+	
+	width: 1000px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+.rectangle {
+	width:960px;
+	margin:20px;
+	text-align:center;
+}
+
+#name{
+	float:left;
+	text-align:left;
+	width: 600px;
+	font-size: 70px;
+	font-family: 'Rochester', cursive;
+	letter-spacing:2px;
+}
+
+
+#time{
+
+	font-size:70px;
+	font-family: 'Rochester', cursive;
+}
+
+.content{
+	width:50%;
+	float:left;
+	
+}
+
+#box1{
+	width:480px;
+	margin:10px;
+	height: 140px;
+	background-color:#d668cb;
+	font-size:40px;
+}
+#box1:hover{
+	background-color:#c557ba;
+}
+
+#box2{
+	width:480px;
+	margin:10px;
+	height: 140px;
+	background-color:#c7d668;
+	font-size:30px;
+}
+#box2:hover{
+	background-color:#b6c557;
+}
+
+#box3{
+	width:480px;
+	margin:10px;
+	height: 140px;
+	background-color:#45473b;
+	font-size:40px;
+}
+#box3:hover{
+	background-color:#34362a;;
+}
+.facebook{
+	float:left;
+	height:140px;
+	width:150px;
+	background-color:#5050a8;
+	margin-right:10px;
+	margin-top:10px;
+}
+.facebook:hover{
+	background-color:#4040a7;
+}
+.instagram{
+	float:left;
+	height:140px;
+	width:150px;
+	background-color:#f4dc86;
+	margin-right:10px;
+	margin-top:10px;
+}
+.instagram:hover{
+	background-color:#e3cb75;
+}
+.youtube{
+	float:left;
+	height:140px;
+	width:150px;
+	background-color:#e53e2b;
+	margin-top:10px;
+}
+.youtube:hover{
+	background-color:#d42d1a;
+}
+
+#info{
+	margin-top:10px;
+	width:470px;
+	height:290px;
+	background-color:#9e5827;
+    text-align:justify;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+a.boxlink{
+	color:#ffffff;
+	text-decoration:none;
+	
+}
+
+a.sociallink{
+	color:#ffffff;
+	text-decoration:none;
+	
+}
